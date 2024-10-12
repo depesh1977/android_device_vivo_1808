@@ -1,13 +1,5 @@
 # LineageOS Device Tree for Vivo 1808 (1808)
 
-```
-#
-# Copyright (C) 2022 The LineageOS Project
-#
-# SPDX-License-Identifier: Apache-2.0
-#
-```
-
 ## Device
 The Vivo Y81 (codenamed _"vivo\_1808"_ but shortened to _"1808"_) is a low-end smartphone from Vivo.
 
